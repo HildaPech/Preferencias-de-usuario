@@ -37,7 +37,7 @@ factory PreferenciasUsuario(){
   }
 
   set colorSecundario(bool value){
-    _prefs.setBool('colorSecundario', value);
+    _prefs.setBool('colorSecundario', value); //
   }
 
 
